@@ -1,10 +1,6 @@
 # GTA5线上小助手
 
-一个完全免费的GTA5线上模式辅助工具
-
-## 下载
-
-[最新版本发布地址](https://github.com/CrazyZhang666/GTA5OnlineTools/releases)  
+一个完全免费的GTA5线上模式辅助工具  
 
 ## 编译
 
